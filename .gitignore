@@ -1,0 +1,10 @@
+/log/*
+/tmp/*
+.bundle
+.ruby-version
+.ruby-gemset
+.vscode/
+*.sublime-workspace
+.env
+/vendor/bundle
+Gemfile.lock

@@ -1,0 +1,13 @@
+/log/*
+/tmp/*
+.bundle
+.ruby-version
+.ruby-gemset
+.vscode/
+*.sublime-workspace
+.DS_Store
+.env
+/vendor/bundle
+/coverage
+Gemfile.lock
+/path/to/generated/file
